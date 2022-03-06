@@ -18,6 +18,8 @@ Data Source: LoanStats_2019Q1.csv.zip
 			- Great precision
 			- Satisfactory recall
 			- Satisfactory F1 score
+</br>
+<img width="800" alt="Screen Shot 2022-03-06 at 4 49 26 PM" src="https://user-images.githubusercontent.com/91852495/156943563-9ff3ff35-ccb5-4f3e-b970-9d32924c02cc.png">
 	
 -	SMOTE Oversampling:
 	- This model achieves an accuracy score of 66%
@@ -30,6 +32,9 @@ Data Source: LoanStats_2019Q1.csv.zip
 			- Great precision
 			- Satisfactory recall
 			- Good F1 score
+</br>
+<img width="820" alt="Screen Shot 2022-03-06 at 4 51 51 PM" src="https://user-images.githubusercontent.com/91852495/156943616-99416249-607c-43fa-b7c6-401e7b6e65c5.png">
+
 
 ### Undersampling
 -	Cluster Centroids:
@@ -43,6 +48,8 @@ Data Source: LoanStats_2019Q1.csv.zip
 			- Great precision
 			- Poor recall
 			- Satisfactory F1 score
+</br>
+<img width="745" alt="Screen Shot 2022-03-06 at 4 54 53 PM" src="https://user-images.githubusercontent.com/91852495/156943716-73ed703d-d14e-4a5c-bc65-69d4be64b64c.png">
 
 ### Combination Sampling
 -	SMOTEENN:
@@ -56,6 +63,8 @@ Data Source: LoanStats_2019Q1.csv.zip
 			- Great precision
 			- Satisfactory recall
 			- Satisfactory F1 score
+</br>
+<img width="732" alt="Screen Shot 2022-03-06 at 4 56 00 PM" src="https://user-images.githubusercontent.com/91852495/156943751-bd4035a2-8780-4333-889d-449fbd4d4f7a.png">
 
 ### Ensemble Learners
 -	Random Forest: 
