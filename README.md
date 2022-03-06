@@ -1,5 +1,5 @@
 ## Project Overview
-Credit card data, from LendingClub, is used to predict credit risk via analyzing the results of over/undersampling. Recommendations are made regarding the method of sampling to predict credit risk.
+Machine learning models are used to predict credit risk by analyzing credit card data from LendingClub. Recommendations are made regarding the machine learning method used.
 
 ## Resources
 Data Source: LoanStats_2019Q1.csv.zip
