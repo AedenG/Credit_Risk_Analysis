@@ -78,6 +78,8 @@ Data Source: LoanStats_2019Q1.csv.zip
 			- Great precision
 			- Great recall
 			- Great F1 score
+</br>
+<img width="720" alt="Screen Shot 2022-03-06 at 4 57 49 PM" src="https://user-images.githubusercontent.com/91852495/156943845-666ea0f9-29bd-41b6-ad3b-2a4b305ac613.png">
 
 -	Easy Ensemble AdaBoost:
 	- This model achieves an accuracy score of 93%
@@ -90,8 +92,11 @@ Data Source: LoanStats_2019Q1.csv.zip
 			- Great precision
 			- Great recall
 			- Great F1 score
-
+</br>
+<img width="720" alt="Screen Shot 2022-03-06 at 4 58 53 PM" src="https://user-images.githubusercontent.com/91852495/156943884-44830b7f-0d51-4e30-8e34-5c9a28e70039.png">
+</br>
 
 ## Summary 
+
 I would not recommend using any of these models to predict both high and low risk credit applicants. Easy Ensemble AdaBoost is the most accurate machine learning model. It can predict low risk applicants with great precision, recall, and a great F1 score. It is however a poor performer when it comes to high credit risk. Random Forest is great at predicting low risk as well and satisfactory at predicting high risk. However, it has a much lower accuracy score than Easy Ensemble AdaBoost. In general, Ensemble Learners were better performers.
 
